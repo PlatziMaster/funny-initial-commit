@@ -1,8 +1,9 @@
 const messages = [
+  "Coders.... Re-assemble(r)!!!!",
   "in case of fire: git commit, git push and leave building",
   "This is where it all begins...",
-  "Commit committed",
   "Version control is awful",
+  "Commit committed",
   "COMMIT ALL THE FILES!",
   "The same thing we do every night, Pinky - try to take over the world!",
   "Lock S-foils in attack position",
