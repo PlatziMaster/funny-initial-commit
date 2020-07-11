@@ -17,6 +17,7 @@ const messages = [
   "naruto, The programmer ninja!",
   "The covid-19 block my commit",
   "The new commit, let go to the moon"
+  "It's fun because it's the second try to commit"
 ];
 
 const funnyCommit = () => {
