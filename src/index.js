@@ -16,7 +16,7 @@ const messages = [
   "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
   "naruto, The programmer ninja!",
   "The covid-19 block my commit",
-];
+  "Everything in this room is eatable. Even I'm edible, but that is called cannibalism and is in fact frowned upon in most societies",
 
 const funnyCommit = () => {
   const message = messages[Math.floor(Math.random() * messages.length)];
