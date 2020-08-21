@@ -16,6 +16,14 @@ const messages = [
   "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
   "naruto, The programmer ninja!",
   "The covid-19 block my commit",
+  "On the Internet, nobody knows that you are a dog.",
+  "When I wrote this code only me and God knew why we did it, now only God knows",
+  "¿Quién es el General Failure y por qué está leyendo mi disco duro?",
+  "Memory is like an orgasm - it's so much better when you don't have to fake it.",
+  "Keep it simple: as simple as possible, but no more.",
+  "Real programmers don't document. If it was difficult to write, it must be difficult to understand.",
+  "The reason God was able to create the universe in six days is that he didn't have to worry about making it backward compatible.",
+  "Hardware is what you can kick. Software is what you can only insult.",
 ];
 
 const funnyCommit = () => {
