@@ -1,4 +1,5 @@
 const messages = [
+  "git log  --all --graph --decore --oneline",
   "in case of fire: git commit, git push and leave building",
   "This is where it all begins...",
   "Commit committed",
