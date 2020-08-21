@@ -1,4 +1,5 @@
 const messages = [
+  "I like read books and watch animes and doramas",
   "in case of fire: git commit, git push and leave building",
   "This is where it all begins...",
   "Commit committed",
