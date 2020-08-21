@@ -16,6 +16,7 @@ const messages = [
   "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
   "naruto, The programmer ninja!",
   "The covid-19 block my commit",
+  "Anyone knows how to reach our coding´s Migatte no Gokui?? i look forward to get it..."
 ];
 
 const funnyCommit = () => {
