@@ -1,3 +1,4 @@
+
 const messages = [
   "in case of fire: git commit, git push and leave building",
   "This is where it all begins...",
@@ -26,3 +27,4 @@ const funnyCommit = () => {
 module.exports = {
   funnyCommit
 };
+Excelente reto
